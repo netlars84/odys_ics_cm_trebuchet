@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">Kies muurpapier</string>
+    <string name="wallpaper_chooser_empty">Geen muurpapier beskikbaar nie</string>
+    <string name="wallpaper_cancel">Kanselleer</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">Fona tapetes atlase</string>
+    <string name="wallpaper_chooser_empty">Fona tapetes nav pieejamas.</string>
+    <string name="wallpaper_cancel">Atcelt</string>
+</resources>

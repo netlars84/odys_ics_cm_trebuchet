@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
+        <item>Padrão</item>
+        <item>Tablet</item>
+        <item>Aumentar</item>
+        <item>Diminuir</item>
+        <item>Girar para cima</item>
+        <item>Girar para baixo</item>
+        <item>Dentro do cubo</item>
+        <item>Fora do cubo</item>
+        <item>Pilha</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>Padrão</item>
+        <item>Tablet</item>
+        <item>Aumentar</item>
+        <item>Diminuir</item>
+        <item>Girar para cima</item>
+        <item>Girar para baixo</item>
+        <item>Dentro do cubo</item>
+        <item>Fora do cubo</item>
+        <item>Pilha</item>
+    </string-array>
+</resources>

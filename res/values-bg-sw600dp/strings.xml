@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">Избор на тапет</string>
+    <string name="wallpaper_chooser_empty">Няма налични тапети</string>
+    <string name="wallpaper_cancel">Отказ</string>
+</resources>

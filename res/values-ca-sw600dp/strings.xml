@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">"Selecció d'un fons de pantalla"</string>
+    <string name="wallpaper_chooser_empty">No hi ha fons de pantalla disponibles</string>
+    <string name="wallpaper_cancel">Cancel·la</string>
+</resources>

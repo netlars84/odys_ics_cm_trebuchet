@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
+        <item>Standardowy</item>
+        <item>Tablet</item>
+        <item>Przybliż</item>
+        <item>Oddal</item>
+        <item>Obróć do góry</item>
+        <item>Obróć w dół</item>
+        <item>Kostka wewnątrz</item>
+        <item>Kostka na zewnątrz</item>
+        <item>Stos</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>Standardowy</item>
+        <item>Tablet</item>
+        <item>Przybliż</item>
+        <item>Oddal</item>
+        <item>Obróć do góry</item>
+        <item>Obróć w dół</item>
+        <item>Kostka wewnątrz</item>
+        <item>Kostka na zewnątrz</item>
+        <item>Stos</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_name">Applicaziuns da basa dad Android</string>
+    <string name="folder_name" />
+    <string name="chooser_wallpaper">Tscherner in fund davos</string>
+    <string name="wallpaper_instructions">Definir in fund davos</string>
+    <string name="pick_wallpaper">Maletgs da fund davos</string>
+    <string name="activity_not_found">"L'applicaziun n'è betg installada sin quest telefonin."</string>
+    <string name="rename_folder_label">"Num da l'ordinatur"</string>
+    <string name="rename_folder_title">"Renumnar l'ordinatur"</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Interrumper</string>
+    <string name="menu_item_add_item">Agiuntar al visur da partenza</string>
+    <string name="group_applications">Applicaziuns</string>
+    <string name="group_shortcuts">Scursanidas</string>
+    <string name="group_widgets">Widgets</string>
+    <string name="group_wallpapers">Funds davos</string>
+    <string name="out_of_space">Nagin spazi liber sin il visur da partenza.</string>
+    <string name="shortcut_installed">\"Creà ina scursanida \"\"%s\"\".\"</string>
+    <string name="shortcut_uninstalled">\"La scursanida \"\"%s\"\" è vegnida stizzada.\"</string>
+    <string name="shortcut_duplicate">\"La scursanida \"\"%s\"\" exista gia.\"</string>
+    <string name="title_select_shortcut">Tscherner ina cumbinaziun da tastas</string>
+    <string name="all_apps_button_label">Tut las applicaziuns</string>
+    <string name="all_apps_home_button_label">Pagina da partenza</string>
+    <string name="menu_add">Agiuntar</string>
+    <string name="menu_wallpaper">Fund davos</string>
+    <string name="menu_search">Tschertgar</string>
+    <string name="menu_notifications">Avis</string>
+    <string name="menu_settings">Parameters</string>
+    <string name="permlab_install_shortcut">Installar scursanidas</string>
+    <string name="permdesc_install_shortcut">"Pussibilitescha ch'ina applicaziun agiunta scursanidas senza l'intervenziun da l'utilisader."</string>
+    <string name="permlab_uninstall_shortcut">deinstallar scursanidas</string>
+    <string name="permdesc_uninstall_shortcut">"Pussibilitescha ch'ina applicaziun possia stizzar scursanidas senza ina intervenziun da l'utilisader."</string>
+    <string name="permlab_read_settings">Leger ils parameters e las scursanidas da la pagina da partenza</string>
+    <string name="permdesc_read_settings">"Pussibilitescha ch'ina applicaziun possia leger ils parameters e las scursanidas da la pagina da partenza."</string>
+    <string name="permlab_write_settings">Definir ils parameters e las scursanidas per la pagina da partenza</string>
+    <string name="permdesc_write_settings">"Pussibilitescha ch'ina applicaziun possia midar ils parameters e las scursanidas sin la pagina da partenza."</string>
+    <string name="gadget_error_text">Problems cun chargiar il widget</string>
+</resources>

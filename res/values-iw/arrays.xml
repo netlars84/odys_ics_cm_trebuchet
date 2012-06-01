@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
+        <item>רגיל</item>
+        <item>טאבלט</item>
+        <item>זום פנימה</item>
+        <item>זום החוצה</item>
+        <item>סיבוב מעלה</item>
+        <item>סיבוב מטה</item>
+        <item>קוביה פנימה</item>
+        <item>קוביה החוצה</item>
+        <item>ערימה</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>רגיל</item>
+        <item>טאבלט</item>
+        <item>זום פנימה</item>
+        <item>זום החוצה</item>
+        <item>סיבוב מעלה</item>
+        <item>סיבוב מטה</item>
+        <item>קוביה פנימה</item>
+        <item>קוביה החוצה</item>
+        <item>ערימה</item>
+    </string-array>
+</resources>

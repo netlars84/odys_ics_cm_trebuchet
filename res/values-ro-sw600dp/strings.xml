@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">Selectaţi o imagine de fundal</string>
+    <string name="wallpaper_chooser_empty">Nu există imagini de fundal disponibile</string>
+    <string name="wallpaper_cancel">Anulaţi</string>
+</resources>

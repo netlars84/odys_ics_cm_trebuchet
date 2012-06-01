@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">Pilih kertas dinding</string>
+    <string name="wallpaper_chooser_empty">Tiada kertas dinding tersedia</string>
+    <string name="wallpaper_cancel">Batal</string>
+</resources>

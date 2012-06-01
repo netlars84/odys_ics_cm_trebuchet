@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">Вибрати фоновий малюнок</string>
+    <string name="wallpaper_chooser_empty">Фонові малюнки недоступні</string>
+    <string name="wallpaper_cancel">Скасувати</string>
+</resources>

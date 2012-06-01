@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
+        <item>Стандартный</item>
+        <item>Планшетный</item>
+        <item>Увеличение</item>
+        <item>Уменьшение</item>
+        <item>Вращение вверх</item>
+        <item>Вращение вниз</item>
+        <item>В кубе</item>
+        <item>Из куба</item>
+        <item>Друг на друга</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>Стандартный</item>
+        <item>Планшетный</item>
+        <item>Увеличение</item>
+        <item>Уменьшение</item>
+        <item>Вращение вверх</item>
+        <item>Вращение вниз</item>
+        <item>В кубе</item>
+        <item>Из куба</item>
+        <item>Друг на друга</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
+        <item>Standaard</item>
+        <item>Tablet</item>
+        <item>Inzoomen</item>
+        <item>Uitzoomen</item>
+        <item>Naar boven draaien</item>
+        <item>Naar beneden draaien</item>
+        <item>Inkubussen</item>
+        <item>Uitkubussen</item>
+        <item>Stapel</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>Standaard</item>
+        <item>Tablet</item>
+        <item>Inzoomen</item>
+        <item>Uitzoomen</item>
+        <item>Naar boven draaien</item>
+        <item>Naar beneden draaien</item>
+        <item>Inkubussen</item>
+        <item>Uitkubussen</item>
+        <item>Stapel</item>
+    </string-array>
+</resources>

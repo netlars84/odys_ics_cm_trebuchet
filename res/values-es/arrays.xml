@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
+        <item>Estándar</item>
+        <item>Tableta</item>
+        <item>Acercar</item>
+        <item>Alejar</item>
+        <item>Girar (Arriba)</item>
+        <item>Girar (Abajo)</item>
+        <item>Cubo (Entrada)</item>
+        <item>Cube (Salida)</item>
+        <item>Apilar</item>
+    </string-array>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_values">
+        <item>Estándar</item>
+        <item>Tableta</item>
+        <item>Acercar</item>
+        <item>Alejar</item>
+        <item>Girar (Arriba)</item>
+        <item>Girar (Abajo)</item>
+        <item>Cubo (Entrada)</item>
+        <item>Cube (Salida)</item>
+        <item>Apilar</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>Estándar</item>
+        <item>Tableta</item>
+        <item>Acercar</item>
+        <item>Alejar</item>
+        <item>Girar (Arriba)</item>
+        <item>Girar (Abajo)</item>
+        <item>Cubo (Entrada)</item>
+        <item>Cube (Salida)</item>
+        <item>Apilar</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_values">
+        <item>Estándar</item>
+        <item>Tableta</item>
+        <item>Acercar</item>
+        <item>Alejar</item>
+        <item>Girar (Arriba)</item>
+        <item>Girar (Abajo)</item>
+        <item>Cubo (Entrada)</item>
+        <item>Cube (Salida)</item>
+        <item>Apilar</item>
+    </string-array>
+</resources>

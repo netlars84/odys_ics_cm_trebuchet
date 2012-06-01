@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_dialog_title">वॉलपेपर का चयन करें</string>
+    <string name="wallpaper_chooser_empty">कोई वॉलपेपर उपलब्ध नहीं</string>
+    <string name="wallpaper_cancel">रद्द करें</string>
+</resources>
